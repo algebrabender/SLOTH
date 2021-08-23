@@ -1,0 +1,208 @@
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\appsettings.json
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.exe
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.deps.json
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.runtimeconfig.json
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.runtimeconfig.dev.json
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\ref\WEBAPI.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.pdb
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.csprojAssemblyReference.cache
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.AssemblyInfoInputs.cache
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.AssemblyInfo.cs
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.csproj.CoreCompileInputs.cache
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\staticwebassets\WEBAPI.StaticWebAssets.Manifest.cache
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\staticwebassets\WEBAPI.StaticWebAssets.xml
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\scopedcss\bundle\WEBAPI.styles.css
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.RazorTargetAssemblyInfo.cache
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.csproj.CopyComplete
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\ref\WEBAPI.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.pdb
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.genruntimeconfig.cache
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Humanizer.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\School and Uni\ELFAK\SWE\Projekat\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\appsettings.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.exe
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.deps.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.runtimeconfig.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.runtimeconfig.dev.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\ref\WEBAPI.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.pdb
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Humanizer.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.AssemblyInfoInputs.cache
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.AssemblyInfo.cs
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.csproj.CoreCompileInputs.cache
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\staticwebassets\WEBAPI.StaticWebAssets.Manifest.cache
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\staticwebassets\WEBAPI.StaticWebAssets.xml
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\scopedcss\bundle\WEBAPI.styles.css
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.RazorTargetAssemblyInfo.cache
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.csproj.CopyComplete
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\ref\WEBAPI.dll
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.pdb
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.genruntimeconfig.cache
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\appsettings.json
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.exe
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.deps.json
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.runtimeconfig.json
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.runtimeconfig.dev.json
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\ref\WEBAPI.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\WEBAPI.pdb
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Humanizer.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.csprojAssemblyReference.cache
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.AssemblyInfoInputs.cache
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.AssemblyInfo.cs
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.csproj.CoreCompileInputs.cache
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\staticwebassets\WEBAPI.StaticWebAssets.Manifest.cache
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\staticwebassets\WEBAPI.StaticWebAssets.xml
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\scopedcss\bundle\WEBAPI.styles.css
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.RazorTargetAssemblyInfo.cache
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.csproj.CopyComplete
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\ref\WEBAPI.dll
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.pdb
+E:\SWE\Projekat\si.21.57.sloth_\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.genruntimeconfig.cache
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\web.config
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\appsettings.Development.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\appsettings.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\WEBAPI.deps.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\WEBAPI.runtimeconfig.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\web.config
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\appsettings.Development.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\appsettings.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\WEBAPI.deps.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\WEBAPI.runtimeconfig.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\publish\web.config
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\publish\appsettings.Development.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\publish\appsettings.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\publish\WEBAPI.deps.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\publish\WEBAPI.runtimeconfig.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\publish\publish\publish\web.config
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\publish\publish\web.config
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\publish\publish\appsettings.Development.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\publish\publish\appsettings.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\publish\publish\publish\appsettings.Development.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\publish\publish\publish\appsettings.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\publish\publish\publish\WEBAPI.deps.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\publish\publish\publish\WEBAPI.runtimeconfig.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\publish\publish\WEBAPI.deps.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\bin\Debug\net5.0\publish\publish\publish\publish\WEBAPI.runtimeconfig.json
+D:\School and Uni\ELFAK\SWE\SLOTH\Aplikacija\BACKEND\WEBAPI\obj\Debug\net5.0\WEBAPI.csproj.AssemblyReference.cache
